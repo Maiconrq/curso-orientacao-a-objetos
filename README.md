@@ -11,7 +11,3 @@
 - See [Commit changes](https://github.com/Maiconrq/INMTE/commits/main) for details.
 
 > **Consulte [Mudanças de commit](https://github.com/Maiconrq/INMTE/commits/main) para obter detalhes.**
-
-
-## License / Licença
-[MIT License](https://github.com/Maiconrq/INMTE/blob/main/LICENSE) © [Maicon Rodrigues](https://github.com/Maiconrq)
